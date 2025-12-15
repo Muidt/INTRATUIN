@@ -28,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Sprite6",
-    "path":"sprites/Sprite6/Sprite6.yy",
+    "name":"sp_door1",
+    "path":"sprites/sp_door1/sp_door1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
