@@ -9,8 +9,8 @@
   "name":"obj_button_video_settings",
   "overriddenProperties":[],
   "parent":{
-    "name":"BLANK GAME",
-    "path":"BLANK GAME.yyp",
+    "name":"buttons",
+    "path":"folders/buttons.yy",
   },
   "parentObjectId":null,
   "persistent":true,
