@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite5",
-    "path":"sprites/Sprite5/Sprite5.yy",
+    "name":"sp_table",
+    "path":"sprites/sp_table/sp_table.yy",
   },
   "spriteMaskId":null,
   "visible":true,

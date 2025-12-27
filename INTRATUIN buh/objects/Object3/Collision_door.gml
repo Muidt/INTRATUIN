@@ -1,1 +1,1 @@
-room_goto(other.destination)
+////room_goto(other.destination)
