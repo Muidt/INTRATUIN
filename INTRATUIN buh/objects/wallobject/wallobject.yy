@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sp_wall_boundary",
-    "path":"sprites/sp_wall_boundary/sp_wall_boundary.yy",
+    "name":"Sprite3",
+    "path":"sprites/Sprite3/Sprite3.yy",
   },
   "spriteMaskId":null,
   "visible":true,

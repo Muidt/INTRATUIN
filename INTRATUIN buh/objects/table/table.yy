@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object3",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Object5","path":"objects/Object5/Object5.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"door","path":"objects/door/door.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"table",
+  "eventList":[],
   "managed":true,
-  "name":"Object3",
+  "name":"table",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -34,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite5",
-    "path":"sprites/Sprite5/Sprite5.yy",
+    "name":"Sprite9",
+    "path":"sprites/Sprite9/Sprite9.yy",
   },
   "spriteMaskId":null,
   "visible":true,
